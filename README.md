@@ -34,10 +34,3 @@ Este projeto permite que você adicione nomes de amigos e realize um sorteio par
 │   └── AmigoSecreto.jpg
 └── README.md
 ```
-
-### 🟢 Challenge do Amigo Secreto: Explore Funções e Listas  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-
-- Funções, listas e arrays  
-- Iterações e loops (`for`, `while`)  
-- Manipulação de coleções em JavaScript  
