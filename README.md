@@ -2,8 +2,6 @@
 
 ![Tela do Amigo Secreto](img/AmigoSecreto.jpg)
 
-Uma página web simples para sortear um amigo secreto entre amigos.
-
 ## 💡 Sobre o Projeto
 
 Este projeto permite que você adicione nomes de amigos e realize um sorteio para descobrir quem será o amigo secreto. O objetivo principal é praticar lógica de programação e manipulação de DOM com JavaScript.
