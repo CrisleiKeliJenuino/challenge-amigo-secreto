@@ -35,12 +35,6 @@ Este projeto permite que você adicione nomes de amigos e realize um sorteio par
 └── README.md
 ```
 
-## 🛠️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-
 ### 🟢 Challenge do Amigo Secreto: Explore Funções e Listas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
