@@ -40,3 +40,14 @@ Este projeto permite que você adicione nomes de amigos e realize um sorteio par
 - HTML5
 - CSS3
 - JavaScript
+
+### 🟢 Challenge do Amigo Secreto: Explore Funções e Listas  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+- Funções, listas e arrays  
+- Iterações e loops (`for`, `while`)  
+- Manipulação de coleções em JavaScript  
+
+<p align="center"> 
+<img src="certificados/challenge-amigo-secreto-js-js" alt="Certificado Lógica de Programação JavaScript" width="400"/>
+</p>
