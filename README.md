@@ -6,6 +6,8 @@
 
 Este projeto permite que você adicione nomes de amigos e realize um sorteio para descobrir quem será o amigo secreto. O objetivo principal é praticar lógica de programação e manipulação de DOM com JavaScript.
 
+> **Nota:** O arquivo `index.html` e o `style.css` já estavam prontos. O desafio foi implementar a lógica em JavaScript.
+
 ## 🚀 Como usar
 
 1. Clone este repositório:
@@ -24,13 +26,13 @@ Este projeto permite que você adicione nomes de amigos e realize um sorteio par
 
 ```
 .
-├── app.js
-├── index.html
-├── style.css
 ├── assets/
 │   ├── amigo-secreto.png
 │   └── play_circle_outline.png
 ├── img/
 │   └── AmigoSecreto.jpg
+├── app.js
+├── index.html
+├── style.css
 └── README.md
 ```
